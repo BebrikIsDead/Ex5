@@ -1,0 +1,25 @@
+body{
+	background-color: whitesmoke;
+}
+p{
+	font-size: 50px;
+	color: azure;
+	background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
+	background-size: cover;
+}
+ul{
+	font-size: 28px;
+	color: rebeccapurple;
+	suffix: '0';
+}
+ul li{
+	padding-left: 10px;
+}
+dt{
+	font-size: 20px;
+	font-weight: bold;
+}
+dd{
+	font-size: 18px;
+	width: 25%;
+}
